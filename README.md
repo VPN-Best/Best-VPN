@@ -9,3 +9,7 @@
 老王推荐分享的这几款好用的便宜翻墙机场，支持 Clash、Shadowrocket、Quantumult X、Stash、Surge、V2ray、sing-box 等多种流行客户端，有 Shadowsoccks（即SS）、ShadowsocksR（即SSR）、V2ray（vmess）、Trojan、Hysteria 多种协议可供选择。无论翻墙上外网是跨境外贸还是学习查资料各场景都能用，又或者解锁流媒体Netflix奈飞/HBO/Disney迪斯尼/Hulu/动画疯/youtube油管等观看4K和8K视频也秒开缓冲无压力，有的还提供永久不限时流量包可以作为备用机场梯子。  
 
 这些收费梯子vpn的价格便宜都是十元机场，但是综合评测性价比是10元梯子里的天花板，老王一直对推荐免费翻墙梯子的文章比较反感，因为安全隐患太大，对于科学上网工具来说，免费才是最贵的！
+
+##1. SYCloud速云梯机场 2024稳定翻墙机场梯子加速器首选
+
+![速云梯.jpg](https://s2.loli.net/2023/11/28/tZVUaivdECBQhwy.jpg)
