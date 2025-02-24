@@ -2,7 +2,7 @@
 
 **2025年上外网的翻墙梯子哪个最好用？其实大家科学魔法上网使用的VPN、网络加速器、机场节点对于普通用户来说，几乎是相同的概念都是可以使用手机和pc电脑挂外网工具。其中SSR/V2Ray/Trojan小火箭节点以稳定、高速、大流量以及高性价比成为翻墙工具首选，所以今天精选出这几个安全快速超[好用的节点梯子](https://github.com/VPN-Best/SSR_V2Ray)。**  
 
-![梯子推荐01.jpg](https://s2.loli.net/2023/11/28/z9VwZmb6AkxnTLE.jpg)
+![梯子推荐01.jpg](https://www.cnvintage.org/assets/files/2025-02-24/1740376827-591623-6140ca67-6bbc-4d5e-baba-d84fb4861fd4.jpeg)
 
 老王推荐分享的这几款好用的便宜翻墙机场，支持 Clash、Shadowrocket、Quantumult X、Stash、Surge、V2ray、sing-box 等多种流行客户端，有 Shadowsoccks（即SS）、ShadowsocksR（即SSR）、V2ray（vmess）、Trojan、Hysteria 多种协议可供选择。无论翻墙上外网是跨境外贸还是学习查资料各场景都能用，又或者解锁流媒体Netflix奈飞/HBO/Disney迪斯尼/Hulu/动画疯/youtube油管等观看4K和8K视频也秒开缓冲无压力，有的还提供永久不限时流量包可以作为备用机场梯子。  
 
